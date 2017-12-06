@@ -44,8 +44,8 @@ These are the available system tags
 |<<tag "$:/tags/RemoteAssetInfo>> |for plugin import handling |
 |<<tag "$:/tags/SearchResults>> |for customised search results |
 |<<tag "$:/tags/ServerConnection>> |for plugin import handling |
-|<<tag "$:/tags/SideBar>> |for sidebar tabs | |
-|<<tag "$:/tags/Stylesheet>> |to indicate that a tiddler should be applied as a CSS stylesheet | |
+|<<tag "$:/tags/SideBar>> |for sidebar tabs |
+|<<tag "$:/tags/Stylesheet>> |to indicate that a tiddler should be applied as a CSS stylesheet |
 |<<tag "$:/tags/TagDropdown>> |for tags dropdown sorting |
 |<<tag "$:/tags/Texteditor/Snippet>> |for text snippets |
 |<<tag "$:/tags/TiddlerInfo>> |for tiddler info panel tabs |
